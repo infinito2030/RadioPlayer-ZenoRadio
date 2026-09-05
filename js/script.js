@@ -1,7 +1,7 @@
-const RADIO_NAME = 'Jailson Webradio';
+const RADIO_NAME = 'Infinito Music Radio';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/2p5tpsaurfhvv';
+const URL_STREAMING = 'https://stream.zeno.fm/1y53mmu5fd0uv';
 
 // You can find the mount point in the Broadcast Settings.
 // To generate the Zeno Radio API link from the mount point,
